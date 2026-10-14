@@ -1,6 +1,6 @@
 # Password-Generator
 
-Generiere zufällige Passwörter
+Generate random passwords
 ```
 generatePassword(int: length, bool: useSpecial)
 ```
